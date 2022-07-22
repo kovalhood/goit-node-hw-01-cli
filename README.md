@@ -5,7 +5,7 @@
 ![Screenshot_2](https://user-images.githubusercontent.com/90193930/180564292-73e59a6d-1247-4fac-8730-4be9991d7dad.png)
 
 # Adding contact
-![Screenshot_3](https://user-images.githubusercontent.com/90193930/180564442-1f330230-f426-4522-988d-7d8460a07572.png)
+![Screenshot_3](https://user-images.githubusercontent.com/90193930/180565325-3aff2eab-e62c-4faa-9761-0e97d9784118.png)
 
 # Removing contact by id
 ![Screenshot_4](https://user-images.githubusercontent.com/90193930/180564449-5d655f6e-ff78-4d07-b2e9-709fa479189d.png)
